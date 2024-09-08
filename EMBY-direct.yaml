@@ -1,0 +1,16 @@
+# NAME: Discord
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-07-03 16:16:11
+# DOMAIN-SUFFIX: 28
+# TOTAL: 28
+payload:
+  - DOMAIN,sgtv.ii00.cc
+  - DOMAIN,sptv.ii00.cc
+  - DOMAIN,cn-music.mefun.vip
+  - DOMAIN,v6.cdn08.magpie.bond
+  - DOMAIN,v6.cdn07.magpie.bond
+  - DOMAIN-KEYWORD,pemby
+
+
+
