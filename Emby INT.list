@@ -301,6 +301,7 @@ DOMAIN,cuinf.sfcat.link
 DOMAIN-SUFFIX,pe.cn2gias.uk
 DOMAIN-SUFFIX,post.cn2gias.uk
 DOMAIN-KEYWORD,preus
+DOMAIN-KEYWORD,anycast
 
 # SarCat
 DOMAIN-SUFFIX,starcat.eu.org
