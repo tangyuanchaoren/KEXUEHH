@@ -57,10 +57,6 @@ HOST-SUFFIX,xmsl.org,Emby
 HOST-KEYWORD,emby.wtf,Emby
 HOST-KEYWORD,jmsooo,Emby
 HOST-KEYWORD,odysseyplus,Emby
-# Magpie(喜鹊)
-HOST-SUFFIX,magpie.cyou
-HOST-SUFFIX,magpiecdn.tech
-HOST-SUFFIX,023168.xyz
 # 守候网络Emby
 HOST-SUFFIX,pe.cn2gias.uk
 HOST-SUFFIX,post.cn2gias.uk
